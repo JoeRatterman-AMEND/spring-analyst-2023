@@ -7,10 +7,10 @@
     <img src="ref/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Github General Template</h3>
+<h3 align="center">My Analyst Project 2023</h3>
 
   <p align="center">
-    This is a template containing scripts and documentation setup to quickly start a Python project.
+    This is a repo I setup for my analyst project at AMEND in Spring 2023.
     <br />
     <a href="https://github.com/AMEND-Consulting-LLC/github-general-template"><strong>Explore the docs »</strong></a>
     <br />
